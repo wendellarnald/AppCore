@@ -1,2 +1,2 @@
 # AppCore
-Create new project utilitilities 
+Create new project using Asp.Net Core
