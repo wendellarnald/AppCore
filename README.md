@@ -1,6 +1,6 @@
 # AppCore
 
-
+Studying how .Net Core works with a simple application.
 
 ## Author
 
